@@ -1,0 +1,33 @@
+Welcome to Mike's polynomial calculator
+-------------------------------
+4x^5+7x^3+-1x^2+9x^0+
+-------------------------------
+Degree: 5
+# of terms: 4
+Coeff(0): 9
+Coeff(1): 0
+Coeff(2): -1
+Coeff(3): 7
+Coeff(4): 0
+Coeff(5): 4
+Coeff(6): 0
+Coeff(7): 0
+Value(1): 19
+Value(2): 189
+-------------------------------
+10x^7+1x^4+-3x^3+5x^2+-11x^0+
+-------------------------------
+Degree: 7
+# of terms: 5
+Coeff(0): -11
+Coeff(1): 0
+Coeff(2): 5
+Coeff(3): -3
+Coeff(4): 1
+Coeff(5): 0
+Coeff(6): 0
+Coeff(7): 10
+Value(1): 2
+Value(2): 1281
+
+
